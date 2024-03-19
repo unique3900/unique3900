@@ -31,3 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unique3900&show_icons=true&locale=en" alt="unique3900" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unique3900&" alt="unique3900" /></p>
+
+
+![Snake animation](https://raw.githubusercontent.com/unique3900/unique3900/output/github-contribution-grid-snake-dark.svg)
+
+
