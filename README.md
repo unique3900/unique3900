@@ -33,6 +33,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unique3900&" alt="unique3900" /></p>
 
 
-![Snake animation](https://raw.githubusercontent.com/unique3900/unique3900/output/github-contribution-grid-snake-dark.svg)
+
 
 
